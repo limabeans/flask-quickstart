@@ -16,4 +16,10 @@ create our flask environment and install flask
 `conda install Flask`
 
 
+run locally (not for prod)
+
+
+`FLASK_APP=app.py flask run`
+
+
 
