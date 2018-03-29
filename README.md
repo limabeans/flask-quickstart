@@ -23,3 +23,12 @@ run locally (not for prod)
 
 
 
+### deploying on Heroku
+
+use gunicorn to deploy Flask app for prod
+* requirements.txt
+* runtime.txt
+* Procfile
+
+
+`heroku create`
