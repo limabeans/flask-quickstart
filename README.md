@@ -31,4 +31,16 @@ use gunicorn to deploy Flask app for prod
 * Procfile
 
 
-`heroku create`
+push to heroku
+
+
+* `heroku create`
+* stage/add files
+* `git push heroku master`
+
+
+useful commands
+
+`heroku logs --tail`
+
+`heroku open`
